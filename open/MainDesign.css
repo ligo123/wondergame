@@ -1,0 +1,55 @@
+/*This is the main CSS page for Wonder. */
+/*Useful things to remember - "display:block;" */
+/*This will be used to define most of the major pages.  I would like it to match up with the Blog theme eventually, but that is not necessary at the moment.  For now, we just need something that is relatively nice.*/
+
+#main {
+	margin-left:auto;
+	margin-right:auto;
+	background:#0066cc;
+	width:800px;
+}
+#header {
+	background:#00FFFF;
+	margin-top:0px;
+	height:300px;
+	width:800px;
+	
+
+}
+#leftbar {
+	float:left;
+	background:#33CCFF;
+	width:500px;
+	height:500px;
+	margin-top:0px;
+
+}
+
+#rightbar{
+	float:right;
+	background:#0066cc;
+	width:300px;
+	height:500px;
+	margin-top:0px;
+}
+
+#centerloginfield{
+        margin-left:auto;
+	margin-right:auto;
+        text-align:center;
+}
+
+.mainimage {
+	float:center;	
+}
+
+p {
+	color:black;
+	text-align:center;
+}
+h1 {
+text-align:center;
+}
+a {
+
+}
